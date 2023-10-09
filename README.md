@@ -35,6 +35,3 @@ With ElectriGo, we can dramatically enhance EV Adoptability in future and aim to
 6) Upcoming: We are considering to implement a real-time app-based solution for continuous SoC prediction in battery systems.
 
 Video Presentation: [Click Here](https://youtu.be/dyb1eDYfdy4)
-
-
-
